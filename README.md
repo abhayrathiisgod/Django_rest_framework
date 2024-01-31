@@ -6,3 +6,5 @@ This API project demonstrates the following skills:
 4. Defining many-to-one and many-to-many relationships
 5. Authenticating user actions
 6. Using Django REST Framework’s browsable API
+
+<img width="717" alt="image" src="https://github.com/abhayrathiisgod/Django_rest_framework/assets/86717847/a7bfcafa-5697-449b-b8a9-a1bf896f35b9">
