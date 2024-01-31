@@ -8,3 +8,7 @@ This API project demonstrates the following skills:
 6. Using Django REST Framework’s browsable API
 
 <img width="717" alt="image" src="https://github.com/abhayrathiisgod/Django_rest_framework/assets/86717847/a7bfcafa-5697-449b-b8a9-a1bf896f35b9">
+
+
+<img width="717" alt="image" src="https://github.com/abhayrathiisgod/Django_rest_framework/assets/86717847/bc1a04ae-d566-4634-bde9-548a19231ddb">
+
